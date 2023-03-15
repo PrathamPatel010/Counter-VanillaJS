@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@400;700&family=Ubuntu:wght@300&display=swap');
+body {
+    font-family: 'Ubuntu', 'Merriweather', 'Montserrat', sans-serif;
+    background-color: #cffafe;
+    color: #06b6d4;
+}
