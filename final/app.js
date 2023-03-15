@@ -25,5 +25,13 @@ btns.forEach(function(btn) {
         }
         // changing the text value in UI
         value.textContent = count;
+
+        if (count > 0) {
+            value.style.color = "#22c55e";
+        } else if (count == 0) {
+            value.style.color = "#222";
+        } else {
+            value.style.color = "#dc2626";
+        }
     })
 })

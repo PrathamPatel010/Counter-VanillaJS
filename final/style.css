@@ -2,8 +2,8 @@
 body {
     margin: 0;
     font-family: 'Ubuntu', 'Merriweather', 'Montserrat', sans-serif;
-    background-color: #cffafe;
-    color: #06b6d4;
+    background-color: #ecfeff;
+    color: #222;
 }
 
 main {
@@ -25,6 +25,7 @@ main {
 
 #value {
     font-size: 2.5rem;
+    color: #222;
 }
 
 .btn-container {
