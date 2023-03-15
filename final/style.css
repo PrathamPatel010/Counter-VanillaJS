@@ -36,11 +36,12 @@ main {
 .btn {
     display: inline;
     margin: 1rem;
+    padding: 0.25rem;
     border-radius: var(--radius);
     background-color: transparent;
 }
 
 .btn:hover {
-    background-color: black;
+    background-color: #222;
     color: white;
 }
